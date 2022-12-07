@@ -2,7 +2,7 @@
 A list of cool projects, free resources and generous free tiers
 
 ## Backend Servicies
-- [Supabase](https://supabase.com/) - Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage. |
+- [Supabase](https://supabase.com/) - Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
 - [Planetscale](https://planetscale.com/) - MySQL database
 
 
